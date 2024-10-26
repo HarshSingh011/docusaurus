@@ -96,6 +96,11 @@ const config = {
             position: 'left'
           },
           {
+            label: "Aryan Garg",
+            to: "/docs/aryan",
+            position: "left"
+          },
+          {
             label: 'Astha',
             to: '/docs/Astha',
             position: 'left'
@@ -171,6 +176,11 @@ const config = {
             position: 'left'
           },
           {
+            label: 'Sneha Bansal',
+            to: '/docs/sneha',
+            position: 'left'
+          },
+          {
             label: 'Srayansh Gupta',
             to: '/docs/srayansh',
             position: 'left'
@@ -185,6 +195,11 @@ const config = {
             to: '/docs/tanishka',
             position: 'left'
           },
+          {
+            label:'Kanishak Rajput',
+            to:'/docs/kanishak',
+            position:'left'
+          }
 
           // {
           //   label: 'About',
