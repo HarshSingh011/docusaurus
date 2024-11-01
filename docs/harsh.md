@@ -79,9 +79,9 @@ and then after increasing of deadline I decide to change my design and make it l
 
 <img src="https://i.ibb.co/S6DjGgf/nfs1.png" alt="nfs1" border="0" height="600px" width="800px">
 
-<img src="https://i.ibb.co/7rFcqX4/nfs2.png" alt="nfs2" border="0">
+<img src="https://i.ibb.co/7rFcqX4/nfs2.png" alt="nfs2" border="0" height="600px" width="800px">
 
-<img src="https://i.ibb.co/7GBQFYL/nfs3.png" alt="nfs3" border="0">
+<a href="https://ibb.co/19BMxvj"><img src="https://i.ibb.co/7GBQFYL/nfs3.png" alt="nfs3" border="0" height="600px" width="800px"></a>
 
 *Github Repository*:- 
 
@@ -100,5 +100,12 @@ About:- I have no experience in app development and I have learned webdevelopmen
         option for me as it has more opportunity in internship but in meet with 4th year I changed my tect stack from fluter to android cause 
         4th year told me that android have more opportunity in market then fluter and I should focus on what market need not on what I want to do.
 
-        
+                                                      ### Task 1
+
+*Description*:- Making a Design
+
+*Process of Making*:- It was a easly task but at start it was really confusing and frustrating like what attributes to use and becoming familier
+                      with the xml files codes was difficult at the start.
+
+
 
