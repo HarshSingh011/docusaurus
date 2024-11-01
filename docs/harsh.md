@@ -26,11 +26,11 @@ process of pushing things using drag and drop process.
 for me to play with colour, fonts and animation but in that process I learn to apply animation through CSS but as I said my desining was not that
 good so I first design the portolio  and It look like this:
 
-<img src = "https://app.gemoo.com/share/image-annotation/708825834556751872?codeId=P5bk9jxw9Vo3K&origin=imageurlgenerator&card=708825830853181440" height="600px" width="800px">
+<a href="https://ibb.co/jVS2tn8"><img src="https://i.ibb.co/gvxpYkr/portfolio1.png" alt="portfolio1" height="600px" width="800px"></a>
 
 and then after increasing of deadline I decide to change my design and make it look more profesional and better from my designing point of view.
 
-<img src = "https://app.gemoo.com/share/image-annotation/708829192621391872?codeId=PaJ7QBybyxLyN&origin=imageurlgenerator&card=708829189815402496" height="600px" width="800px">
+<a href="https://ibb.co/3Wsqpkw"><img src="https://i.ibb.co/vmBG3Db/portfolio2.png" alt="portfolio2" border="0" height="600px" width="800px"></a>
 
 *Github Repository*:- https://github.com/HarshSingh011/Portfolio.git
 
@@ -44,14 +44,15 @@ and then after increasing of deadline I decide to change my design and make it l
 
                                                          ### TASK 3
 
-*Description* :- Making a animation using JavaScript only
+*Description* :- Animation task using JavaScript
 
 *Process of Making* :- This Project was really special for me cause it was my own idea of making a survial game my showing animation of balls
                        representing wolf and sheep and it really paid of cause senior also like my idea I also take review from senior a day before
                        submission like Rachit sir told me to make animation more smooth using requestAnimationFrame before that I was using 
                        setTimeInteval and it was my first project with no bugs and with awesome presentation.
 
-<img src = "https://app.gemoo.com/share/image-annotation/708835577614532608?codeId=PaJ7QBybyxLyN" height="600px" width="800px">
+<a href="https://ibb.co/6Y72S9B"><img src="https://i.ibb.co/R2k1Kry/survival-Game.png" alt="survival-Game" height="600px" width="800px" border="0"></a>
+
 
 *Github Repository*:- https://github.com/HarshSingh011/Animate_Game.git
 
@@ -65,5 +66,39 @@ and then after increasing of deadline I decide to change my design and make it l
 
                                                         ### Task 4
 
-                                                
+*Description* :- Game task using JavaScript 
+
+*Process of Making* :- This was a group task me and Mayank were working as a team to built a game based on Need For Speed 1994 but at the start
+                       it was really difficult cause we were trying to make our projrct 3D but it didn't go well so we decided to change the idea 
+                       from 3D to 2D but only 2 days were left so we made game not like nfs but much like a car dodging obstacle and there were bugs
+                       in this game but when we got a night to fix our bugs we fixed all those bugs and a added a story in the game and opponents 
+                       to make it feel more like nfs.
+
+                       The 4th year enjoyed the game and they like the idea of making story in the game but they said that the difficulty of game 
+                       is high it should be a bit low.
+
+<img src="https://i.ibb.co/S6DjGgf/nfs1.png" alt="nfs1" border="0" height="600px" width="800px">
+
+<img src="https://i.ibb.co/7rFcqX4/nfs2.png" alt="nfs2" border="0">
+
+<img src="https://i.ibb.co/7GBQFYL/nfs3.png" alt="nfs3" border="0">
+
+*Github Repository*:- 
+
+Hosted Link*:- 
+
+*Learning*:-
+1. I learned about spikes as I have not have worked with it.
+2. I learned about how practical knowledge, formula, physics and matemtical ratios are used in programming as in our project it is all about ratios.
+3. I also learned to manage my time according to the need as this project really taught me this skill.
+
+                                                      ### Domain( Android Development)
+
+About:- I have no experience in app development and I have learned webdevelopment till now so switching from web to app is really risky for me 
+        cause I have been thinking that would I would not be able to survive the probation cause switching in probation is bit ricky from my point
+        of view but I am taking it cause after taking suggestion from senior and gathering information from internet I think fluter was good 
+        option for me as it has more opportunity in internship but in meet with 4th year I changed my tect stack from fluter to android cause 
+        4th year told me that android have more opportunity in market then fluter and I should focus on what market need not on what I want to do.
+
+        
 
